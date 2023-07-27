@@ -10,7 +10,7 @@ This is a simple **TO-DO list** project created using **HTML, CSS, and JavaScrip
 * **JavaScript:** Used for handling user interactions and managing tasks.
 ## How to Use
 1. Clone this repository to your local machine.
-2. Open the index.html file in any web browser.
+2. Open the **index.html** file in any web browser.
 3. Enter a task in the input field and click the "+" button to add it to the list.
 4. To mark a task as completed, click the "✔" button next to the task.
 5. To remove a task, click the "✔" button next to the task.
