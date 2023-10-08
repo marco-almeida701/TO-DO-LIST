@@ -15,5 +15,5 @@ This is a simple **TO-DO list** project created using **HTML, CSS, and JavaScrip
 4. To mark a task as completed, click the "✔" button next to the task.
 5. To remove a task, click the "✔" button next to the task.
 ## Final Thoughts
-This project was a great opportunity to practice my HTML, CSS, and JavaScript skills and learn about local storage in web browsers. Feel free to explore the source code and customize it according to your needs. Enjoy organizing your tasks with this simple and functional TO-DO list!
+This project was a great opportunity to practice my HTML, CSS, and JavaScript skills and learn about local storage in web browsers. Feel free to explore the source code and customize it according to your needs. Enjoy organizing your tasks with this simple and functional **TO-DO list!**
 ### **Note: This project is for educational purposes only and does not have advanced features such as user authentication or data persistence on a server.**
